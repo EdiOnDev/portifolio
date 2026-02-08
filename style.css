@@ -10,7 +10,17 @@
 }
 
 .education {
-    display: flexbox;
-    /* background-color: blue; */
-    box-sizing: content-box;
+    /* display: inline-grid;
+    background-color: blue;
+} */
+
+h2 {
+    font-weight: bold;
+}
+h4 {
+    font-weight: bold;
+}
+
+h3 {
+    font-weight: bold;
 }
