@@ -36,10 +36,10 @@ h1 {
 }   
 
 h2 {
-    font-weight: bolder;
+  font-weight: 500;
 }
 h4 {
-    font-weight: bold;
+    font-weight: 600;
 }
 
 h3 {
@@ -57,6 +57,7 @@ h3 {
 
 .cursos {
     font-style: italic;
+    font-weight: 350;
 }
 
 /* CUSTOM STYLES */
