@@ -61,30 +61,33 @@ h3 {
 
 
 
-/* 
 .education {
-    background-color: #00aa7f;
+    /* background-color: beige; */
      border-radius: 8px;
      float: inline-end;
 }
 
 .edu {
-    padding: 0.2rem;
+    padding: 1rem;
+    gap: 1rem;
     display: inline-flex;
+    max-width: 90%;
 
 
 }
 
 
 .graduation {
-    background-color: white;
+    /* background-color: white; */
      border-radius: 8px;
+
 }
 
 .tec {
-    background-color: blue;
+    /* background-color: white; */
      border-radius: 8px;
-} */
+
+}
 
 
 
