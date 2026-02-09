@@ -56,11 +56,41 @@ h3 {
 } */
 
 
-.education {
-    /* display: inline-grid; */
-    /* background-color: #00aa7f; */
+
+
+
+
+
+/* .education {
+    display: inline-grid;
+    background-color: #00aa7f;
      border-radius: 8px;
-}
+     display: flexbox;
+     flex: auto;
+} */
+
+/* .edu {
+
+    padding: 0.2rem;
+
+
+} */
+
+/* 
+.graduation {
+    background-color: white;
+     border-radius: 8px;
+} */
+
+/* .tec {
+    background-color: blue;
+     border-radius: 8px;
+} */
+
+
+
+
+
 
 /* .description {
       font-family: "Playwrite CU", cursive;
@@ -71,5 +101,5 @@ h3 {
 
 .profile {
     width: 50dvh;
-    
+
 }
