@@ -57,8 +57,13 @@ h3 {
 }
 
 .cursos {
-    font-style: italic;
+    /* font-style: italic; */
     font-weight: 350;
+}
+
+.date {
+    font-style: italic;
+
 }
 
 /* CUSTOM STYLES */
