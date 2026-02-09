@@ -36,7 +36,7 @@ h1 {
 }   
 
 h2 {
-
+    
 }
 h4 {
 
@@ -46,6 +46,10 @@ h3 {
 
 }
 
+.icon {
+    width: 1.5rem;
+    padding: 0.2rem;
+}
 
 
 /* CUSTOM STYLES */
