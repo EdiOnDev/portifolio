@@ -7,6 +7,9 @@
     font-family: "Poppins", sans-serif;
     font-weight: 400;
     font-style: normal;
+    display: flexbox;
+    flex: content;
+    text-align: center;
 }
 
 /* h1 {
@@ -27,18 +30,34 @@ h3 {
     font-weight: bold;
 } */
 
+h1 {
+    text-align: center;
+}   
+
+h2 {
+
+}
+h4 {
+
+}
+
+h3 {
+
+}
 
 
 
 /* CUSTOM STYLES */
 
 
-.navbar {
+/* .navbar {
     display: flex;
     display: flexbox;
-}
+} */
+
+
 .education {
-    display: inline-grid;
+    /* display: inline-grid; */
     /* background-color: #00aa7f; */
      border-radius: 8px;
 }
@@ -49,3 +68,4 @@ h3 {
   font-weight: 400;
   font-style: normal;
 } */
+
