@@ -10,6 +10,7 @@
     display: flexbox;
     flex: content;
     text-align: center;
+    width: 100%;
 }
 
 /* h1 {
