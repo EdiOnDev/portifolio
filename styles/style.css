@@ -80,9 +80,9 @@ h3 {
 
 
 .education {
-    /* background-color: beige; */
+    background-color: beige;
      border-radius: 8px;
-     float: inline-end;
+     position: relative;
 }
 
 .edu {
@@ -110,8 +110,6 @@ h3 {
 
 
 
-
-
 .description {
     /* font-family: "Playwrite CU", cursive;
   font-optical-sizing: auto;
@@ -124,4 +122,23 @@ h3 {
 .profile {
     width: 50dvh;
 
+}
+
+
+/* SKILLS */
+
+
+.skills {
+    background-color: brown;
+}
+
+.skills-habilidades {
+    
+}
+
+.skills-flex {
+    padding: 1rem;
+    gap: 1rem;
+    display: inline-flex;
+    max-width: 90%;
 }
