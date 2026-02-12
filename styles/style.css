@@ -113,16 +113,6 @@ h3 {
 
 
 
-<<<<<<< Updated upstream
-=======
-
-
-
-.tec {
-    font-weight: 700;
-}
-
->>>>>>> Stashed changes
 .description {
     /* font-family: "Playwrite CU", cursive;
   font-optical-sizing: auto;
@@ -137,7 +127,6 @@ h3 {
 
 }
 
-<<<<<<< Updated upstream
 
 /* SKILLS */
 
@@ -155,41 +144,4 @@ h3 {
     gap: 1rem;
     display: inline-flex;
     max-width: 90%;
-=======
-/* SECTION SKILLS */
-
-.skill {
-    /* background-color: blue; */
-
-}
-
-.skills-tech {
-    display: inline-flex;
-    max-width: 90%;
-    padding: 1rem;
-    gap: 1rem;
-    align-items: center;
-}
-
-.skills-1 {
-    /* background-color: azure; */
-    border-radius: 8px;
-}
-
-.skills-1-grid {
-    display: grid;
-    grid-template-columns: auto auto;
-    column-gap: 1rem;
-}
-
-.skills-2 {
-    /* background-color: red; */
-    display: flexbox;
-    flex-wrap: wrap;
-    border-radius: 8px;
-}
-
-.icon-tech {
-    width: 1rem;
->>>>>>> Stashed changes
 }
