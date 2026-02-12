@@ -83,7 +83,7 @@ h3 {
 
 
 .education {
-    background-color: beige;
+    /* background-color: beige; */
      border-radius: 8px;
      position: relative;
 }
@@ -132,16 +132,18 @@ h3 {
 
 
 .skills {
-    background-color: brown;
+    /* background-color: brown; */
 }
 
 .skills-habilidades {
-    
+}
+
+.skills-tecnologias {
+
 }
 
 .skills-flex {
     padding: 1rem;
     gap: 1rem;
     display: inline-flex;
-    max-width: 90%;
 }
